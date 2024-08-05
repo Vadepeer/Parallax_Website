@@ -10,5 +10,5 @@ This project is a simple parallax website created using HTML and CSS.
 
 ## Demo
 
-Check out the live demo of the website []
+Check out the live demo of the website [https://vadepeer.github.io/Parallax_Website/]
 
